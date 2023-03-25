@@ -1,0 +1,4 @@
+repository "Addressables@ruzhuo@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

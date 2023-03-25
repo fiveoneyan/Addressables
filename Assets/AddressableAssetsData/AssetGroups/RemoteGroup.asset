@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: RemoteGroup
+  m_EditorClassIdentifier: 
+  m_GroupName: RemoteGroup
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e48b42bba3230304cbbe723c409e4cb6
+  m_SerializeEntries:
+  - m_GUID: f683bfd6777178344b78d12411af1529
+    m_Address: "Assets/Textures/QQ\u56FE\u724720230312233158.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4e92a39a2a6dfee47bdafea781acde36, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 621b808832437fa4d83c01ed6c076001, type: 2}
+    - {fileID: 11400000, guid: b329db9ee03ac8541bf381822117ba62, type: 2}
